@@ -14,9 +14,9 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **[Sage & Spoon](https://github.com)** | Full-stack AI recipe & nutrition platform featuring a fault-tolerant dual-API pipeline (Groq JSON Schema + Spoonacular) with graceful degradation. | `React 19` `Node.js` `Express` `Groq API` `Vite` |
-| **[Vocalson (SDGP)](https://github.com)** | Parkinson’s disease detection system streaming patient voice recordings via Multer into a TensorFlow ML model with secure CRUD patient records. | `React` `Node.js` `MongoDB` `Python` `TensorFlow` |
-| **[Modern Browser Calculator](https://github.com)** | Accessible dark-themed calculator featuring event-driven state logic, ARIA live regions for screen readers, and full keyboard navigation. | `JavaScript (ES6+)` `HTML5` `CSS3` `ARIA` |
+| **[Sage & Spoon](https://github.com/AshfakAhamed07/sage-and-spoon)** | Full-stack AI recipe & nutrition platform featuring a fault-tolerant dual-API pipeline (Groq JSON Schema + Spoonacular) with graceful degradation. | `React 19` `Node.js` `Express` `Groq API` `Vite` |
+| **[Vocalson (SDGP)](https://github.com/AshfakAhamed07/SDGP)** | Parkinson’s disease detection system streaming patient voice recordings via Multer into a TensorFlow ML model with secure CRUD patient records. | `React` `Node.js` `MongoDB` `Python` `TensorFlow` |
+| **[Modern Browser Calculator](https://github.com/AshfakAhamed07/calculator)** | Accessible dark-themed calculator featuring event-driven state logic, ARIA live regions for screen readers, and full keyboard navigation. | `JavaScript (ES6+)` `HTML5` `CSS3` `ARIA` |
 
 ---
 
@@ -31,4 +31,4 @@
 
 ### 📊 GitHub Activity
 
-![Ashfak's GitHub Stats](https://demolab.com)
+[![Ashfak's GitHub stats](https://github-stats-extended.vercel.app/api?username=AshfakAhamed07)](https://github.com/stats-organization/github-stats-extended)
