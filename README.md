@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashfak Ahamed 👋
 
-**Software Engineer (BEng Hons)** based in Colombo, Sri Lanka. I specialize in building responsive, accessible web applications and resilient full-stack solutions using **JavaScript, React, Node.js and MongoDB**.
+**Software Engineer (BEng Hons)** based in Colombo, Sri Lanka. I specialize in building responsive, accessible web applications and resilient full-stack solutions using **React, Node.js, TypeScript, and MongoDB**.
 
 - 🔭 **Currently building:** Full-stack web applications and AI-integrated developer tools.
 - 💼 **Past Experience:** Engineered responsive retail dashboards (*Futstyle*) and tourism platforms (*Travellers.lk*) as a Frontend Developer Intern at **Xiteb**.
@@ -15,7 +15,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Sage & Spoon](https://github.com)** | Full-stack AI recipe & nutrition platform featuring a fault-tolerant dual-API pipeline (Groq JSON Schema + Spoonacular) with graceful degradation. | `React 19` `Node.js` `Express` `Groq API` `Vite` |
-| **[Vocalson (SDGP)](https://github.com/AshfakAhamed07/SDGP)** | Parkinson’s disease detection system streaming patient voice recordings via Multer into a TensorFlow ML model with secure CRUD patient records. | `React` `Node.js` `MongoDB` `Python` `TensorFlow` |
+| **[Vocalson (SDGP)](https://github.com)** | Parkinson’s disease detection system streaming patient voice recordings via Multer into a TensorFlow ML model with secure CRUD patient records. | `React` `Node.js` `MongoDB` `Python` `TensorFlow` |
 | **[Modern Browser Calculator](https://github.com)** | Accessible dark-themed calculator featuring event-driven state logic, ARIA live regions for screen readers, and full keyboard navigation. | `JavaScript (ES6+)` `HTML5` `CSS3` `ARIA` |
 
 ---
@@ -31,4 +31,4 @@
 
 ### 📊 GitHub Activity
 
-![Ashfak's GitHub Stats](https://vercel.app)
+![Ashfak's GitHub Stats](https://demolab.com)
