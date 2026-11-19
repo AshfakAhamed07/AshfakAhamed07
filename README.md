@@ -1,6 +1,6 @@
 ### Hi there, I'm Ashfak Ahamed 👋
 
-**Software Engineer (BEng Hons)** based in Colombo, Sri Lanka. I specialize in building responsive, accessible web applications and resilient full-stack solutions using **React, Node.js, TypeScript, and MongoDB**.
+**Software Engineer (BEng)** based in Colombo, Sri Lanka. I specialize in building responsive, accessible web applications and resilient full-stack solutions using **React, Node.js, TypeScript, and MongoDB**.
 
 - 🔭 **Currently building:** Full-stack web applications and AI-integrated developer tools.
 - 💼 **Past Experience:** Engineered responsive retail dashboards (*Futstyle*) and tourism platforms (*Travellers.lk*) as a Frontend Developer Intern at **Xiteb**.
